@@ -1,0 +1,37 @@
+div
+{
+	padding: 5px 5px 5px 10px;
+	width: 190px;
+	background-color: palegreen;
+	border: 3px dotted forestgreen;
+}
+
+input:hover
+{
+	background-color: lightyellow;
+}
+
+#boton
+{
+	border: 2px darkseagreen outset;
+	width: 55px;
+	height: 25px;
+	text-align: center;
+	vertical-align: center;
+	margin: 10px 5px 5px 5px;
+}
+
+#boton:hover
+{
+	border: inset darkseagreen 2px;
+}
+
+label
+{
+	margin: 5px;
+}
+
+input
+{
+	margin: 5px;
+}
